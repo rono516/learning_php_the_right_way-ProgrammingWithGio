@@ -4,6 +4,8 @@
 
 - [What is PHP?](https://www.youtube.com/watch?v=sVbEyFZKgqk)
 - [How To Install PHP & What Are Web Servers](https://www.youtube.com/watch?v=KgUp3FomMoc)
+- [Basic PHP syntax](https://www.youtube.com/watch?v=HrtS-FkPBqk)
+- [Constants and variables in PHP](https://www.youtube.com/watch?v=6JtP8xk1U_k)
 
 # Advanced PHP
 
