@@ -4,8 +4,8 @@
 
 # Advanced PHP
 
-- [Intro to testing](https://www.youtube.com/watch?v=hTACGV_LdqE)
-- [PHP Unit Testing](https://www.youtube.com/watch?v=9-X_b_fxmRM)
+- [Intro to testing.](https://www.youtube.com/watch?v=hTACGV_LdqE)
+- [PHP Unit Testing.](https://www.youtube.com/watch?v=9-X_b_fxmRM)
 
 
 
