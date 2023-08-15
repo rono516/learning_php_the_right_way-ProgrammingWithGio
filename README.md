@@ -7,6 +7,7 @@
 - [Basic PHP syntax](https://www.youtube.com/watch?v=HrtS-FkPBqk)
 - [Constants and variables in PHP](https://www.youtube.com/watch?v=6JtP8xk1U_k)
 - [Data types in PHP](https://www.youtube.com/watch?v=KH4MmQsCDuw)
+- [Data types in PHP](https://www.youtube.com/watch?v=KH4MmQsCDuw)
 
 # Advanced PHP
 
