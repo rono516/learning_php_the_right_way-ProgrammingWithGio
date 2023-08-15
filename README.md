@@ -3,6 +3,7 @@
 # Beginner 
 
 - [What is PHP?](https://www.youtube.com/watch?v=sVbEyFZKgqk)
+- [How To Install PHP & What Are Web Servers](https://www.youtube.com/watch?v=KgUp3FomMoc)
 
 # Advanced PHP
 
