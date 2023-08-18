@@ -6,9 +6,8 @@
 - [How To Install PHP & What Are Web Servers](https://www.youtube.com/watch?v=KgUp3FomMoc)
 - [Basic PHP syntax](https://www.youtube.com/watch?v=HrtS-FkPBqk)
 - [Constants and variables in PHP](https://www.youtube.com/watch?v=6JtP8xk1U_k)
-- [Data types in PHP - Typecasting](https://www.youtube.com/watch?v=KH4MmQsCDuw)
+- [Data types in PHP - Typecasting](https://www.youtube.com/watch?v=KH4MmQsCDuw) - boolean, int, float, string. [compound types] = object, array, iterable, callable. [special types] = resource
 
-https://www.youtube.com/watch?v=KH4MmQsCDuw&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&index=5&pp=iAQB
 
 # Advanced PHP
 
